@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Photoshop\Photoshop.exe" %USERPROFILE%\git\photoshop-layers-exporter-script\layers-exporter.jsx
