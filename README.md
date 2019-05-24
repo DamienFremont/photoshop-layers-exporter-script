@@ -8,13 +8,11 @@ Usage: exporting sketch to character animation, mock-up, code.
 # Getting started
 
 * Clone this reposity
-* Edit `output` value in `layers-exporter.jsx` with your user folder
-
-# Usage
-
 * Open test photoshop file `./test/character.psd`
 * Execute `layers-exporter.bat`
-* Get your results from the same `output` folder as configured before
+* Get your results from your `Documents` folder
+
+NOTE: Edit `output` value in `layers-exporter.jsx` with you want to change the target folder
 
 # Example
 

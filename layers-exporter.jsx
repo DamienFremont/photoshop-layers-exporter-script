@@ -11,7 +11,7 @@
  * @param ouput Target folder path to
  */
 
-var output = "/Users/damien/Documents/";
+var output = $.getenv("USERPROFILE") + "/Documents/";
 
 /* *************************************************** */
 
