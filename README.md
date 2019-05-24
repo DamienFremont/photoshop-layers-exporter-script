@@ -9,7 +9,6 @@ Usage: exporting sketch to character animation, mock-up, code.
 
 * Clone this reposity
 * Edit `output` value in `layers-exporter.jsx` with your user folder
-* Edit `layers-exporter.bat` to target your local path to `layers-exporter.jsx`
 
 # Usage
 
@@ -26,8 +25,6 @@ Usage: exporting sketch to character animation, mock-up, code.
 ![picture](docs/ScreenShot002.png)
 
 ![picture](docs/ScreenShot003.png)
-
-![picture](docs/ScreenShot004.png)
 
 ![picture](docs/ScreenShot005.png)
 
