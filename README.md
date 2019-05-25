@@ -12,7 +12,7 @@ Usage: exporting sketch to character animation, mock-up, code.
 * Execute `layers-exporter.bat`
 * Get your results from your `Documents` folder
 
-NOTE: Edit `output` value in `layers-exporter.jsx` with you want to change the target folder
+NOTE: Edit `output` value in `layers-exporter.jsx` if you want to change the target folder
 
 # Example
 
