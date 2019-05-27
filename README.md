@@ -9,10 +9,10 @@ Usage: exporting sketch to character animation, mock-up, code.
 
 * Clone this reposity
 * Open test photoshop file `./test/character.psd`
-* Execute `layers-exporter.bat`
+* Execute `layers-exporte.bat`
 * Get your results from your `Documents` folder
 
-NOTE: Edit `output` value in `layers-exporter.jsx` if you want to change the target folder
+NOTE: Edit `output` value in `layers-exporte.jsx` if you want to change the target folder
 
 # Example
 

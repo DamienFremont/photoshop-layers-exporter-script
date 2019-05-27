@@ -7,8 +7,8 @@
  * Usage: open a photoshop project, modify the output var
  * value in this script, then execute it with Photoshop.
  * 
- * @param input Current Photoshop project
- * @param ouput Target folder path to
+ * @param (input) Current Photoshop project
+ * @param ouput Target folder path to generated files
  */
 
 var output = $.getenv("USERPROFILE") + "/Documents/";
